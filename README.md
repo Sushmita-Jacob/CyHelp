@@ -1,6 +1,6 @@
 # CyHelp Starter Code
 
-This is the Starter Code for CyHelp!
+I created this project for the Girls Who Code Summer Pathways Program 2025. CyHelp is one of five projects I made for the Cybersecurity Track. Below are the requirements and information provided by Girls Who Code.
 
 ### Project Requirements
 Your project should:
