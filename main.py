@@ -2,9 +2,9 @@
 cybersecurityBirthYear = 1970
 
 #Greets user
-print("Hello! I'm CyHelp.")
-userName = input("What's your name\n")
-print("Nice to meet you " + userName)
+print("Hello! I'm CyHelp. I am a program that can assist you by providing cybersecurity knowledge!")
+userName = input("What's your name?\n")
+print("Nice to meet you, " + userName + ".")
 
 
 #Recounts start of Cybersecurity
@@ -17,6 +17,8 @@ input("Press enter to continue.\n")
 
 
 #Describes Cybersecurity
+input("What do you already know about cybersecurity? I'm excited to hear!")
+print("That's great! Here's the technical definition of cybersecurity:")
 print("Cybersecurity refers to the practices that people use to protect computer systems and networks from cyber attacks.")
 print("These people can be governments/nations, individuals, companies, community organizations, and hackers.\n")
 
